@@ -41,3 +41,21 @@ make
 4. Try to guess the word before running out of attempts
 5. Win by revealing all letters or lose after 6 wrong guesses
 6. Choose to play again or exit
+
+Welcome to Hangman!
+Guess the fruit name.
+
+  _____
+  |   |
+  |   O
+  |  /|\
+  |  / 
+  |   
+__|__
+
+Word: _ p p _ _
+Attempts left: 2
+Guessed letters: a e i o u p l
+Enter a letter:
+
+
